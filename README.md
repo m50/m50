@@ -1,16 +1,41 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**m50/m50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marisa Clardy. I'm a sofware developer at Pagely who is a big fan of PHP and TypeScript. I advocate for strict type checking in all code.
 
-Here are some ideas to get you started:
+Curious what I've been working on recently?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 👷 Check out what I'm currently working on
+
+- [m50/faunadb-php](https://github.com/m50/faunadb-php) - A PHP Library for interacting with FaunaDB and writing FQL (2 days ago)
+- [m50/fono](https://github.com/m50/fono) - Abandoned for now... A free-and-open-source wifi speaker system. (1 month ago)
+- [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (1 month ago)
+- [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component) - Create Tailwind CSS React components like styled components with class names on multiple lines and conditional class rendering (1 month ago)
+- [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.com - The website for my girlfriend. (1 month ago)
+- [m50/next-ts-netlify-starter](https://github.com/m50/next-ts-netlify-starter) - A skeleton project with NextJS, TypeScript, Tailwind, Jest, Netlify, Github Actions all setup. (2 months ago)
+- [m50/setup-sfdx-action](https://github.com/m50/setup-sfdx-action) - A simple github action to setup sfdx with any plugins for use in actions. (4 months ago)
+- [m50/godot-theme-api](https://github.com/m50/godot-theme-api) - An api to convert a CSS-like file into a Godot theme file. (5 months ago)
+- [m50/simple](https://github.com/m50/simple) - The documentation verification tool to make sure that nothing is considered easy or simple. (5 months ago)
+
+---
+
+#### 🔭 Latest releases I've contributed to
+
+- [m50/setup-sfdx-action](https://github.com/m50/setup-sfdx-action) ([1.1.1](https://github.com/m50/setup-sfdx-action/releases/tag/1.1.1), 4 months ago) - A simple github action to setup sfdx with any plugins for use in actions.
+- [m50/simple](https://github.com/m50/simple) ([3.0.0](https://github.com/m50/simple/releases/tag/3.0.0), 5 months ago) - The documentation verification tool to make sure that nothing is considered easy or simple.
+- [m50/Godot-CSharp-Node-Exports](https://github.com/m50/Godot-CSharp-Node-Exports) ([v1.0.1](https://github.com/m50/Godot-CSharp-Node-Exports/releases/tag/v1.0.1), 10 months ago) - A workaround for the limitation of the missing `class_name` from gdscript.
+
+---
+
+#### 📊 My stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azjezz)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=azjezz&count_private=1&show_icons=true)
+
+---
+
+#### 📫 How to reach me
+
+- Twitter: [@MarisaCodes](https://twitter.com/MarisaCodes)
+- Email: [marisa@clardy.eu](mailto://marisa@clardy.eu)
