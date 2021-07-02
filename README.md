@@ -8,6 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [m50/college-work](https://github.com/m50/college-work) - Moved all of my college homework into github (1 day ago)
 - [m50/faunadb-php](https://github.com/m50/faunadb-php) - A PHP Library for interacting with FaunaDB and writing FQL (4 days ago)
 - [m50/fono](https://github.com/m50/fono) - Abandoned for now... A free-and-open-source wifi speaker system. (1 month ago)
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (1 month ago)
@@ -16,7 +17,6 @@ Curious what I've been working on recently?
 - [m50/next-ts-netlify-starter](https://github.com/m50/next-ts-netlify-starter) - A skeleton project with NextJS, TypeScript, Tailwind, Jest, Netlify, Github Actions all setup. (3 months ago)
 - [m50/setup-sfdx-action](https://github.com/m50/setup-sfdx-action) - A simple github action to setup sfdx with any plugins for use in actions. (4 months ago)
 - [m50/godot-theme-api](https://github.com/m50/godot-theme-api) - An api to convert a CSS-like file into a Godot theme file. (5 months ago)
-- [m50/simple](https://github.com/m50/simple) - The documentation verification tool to make sure that nothing is considered easy or simple. (5 months ago)
 
 ---
 
