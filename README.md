@@ -8,10 +8,10 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [m50/faunadb-php](https://github.com/m50/faunadb-php) - A PHP Library for interacting with FaunaDB and writing FQL (2 days ago)
-- [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (2 days ago)
-- [m50/college-work](https://github.com/m50/college-work) - Moved all of my college homework into github (6 days ago)
-- [m50/fono](https://github.com/m50/fono) - Abandoned for now... A free-and-open-source wifi speaker system. (1 month ago)
+- [m50/faunadb-php](https://github.com/m50/faunadb-php) - A PHP Library for interacting with FaunaDB and writing FQL (3 days ago)
+- [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (3 days ago)
+- [m50/college-work](https://github.com/m50/college-work) - Moved all of my college homework into github (1 week ago)
+- [m50/fono](https://github.com/m50/fono) - Abandoned for now... A free-and-open-source wifi speaker system. (2 months ago)
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (2 months ago)
 - [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component) - Create Tailwind CSS React components like styled components with class names on multiple lines and conditional class rendering (2 months ago)
 - [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.com - The website for my girlfriend. (2 months ago)
