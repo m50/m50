@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 📊 My stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m50&hide=javascript,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m50&hide=javascript,css&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=m50&count_private=1&show_icons=true)
 
