@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) - An Expectation API for phpunit (6 days ago)
+- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) - An Expectation API for phpunit (1 week ago)
 - [m50/faunadb-php](https://github.com/m50/faunadb-php) - A PHP Library for interacting with FaunaDB and writing FQL (1 week ago)
 - [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (1 week ago)
 - [m50/college-work](https://github.com/m50/college-work) - Moved all of my college homework into github (2 weeks ago)
@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) ([1.0.0](https://github.com/m50/phpunit-expect/releases/tag/1.0.0), 6 days ago) - An Expectation API for phpunit
+- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) ([1.0.0](https://github.com/m50/phpunit-expect/releases/tag/1.0.0), 1 week ago) - An Expectation API for phpunit
 - [m50/setup-sfdx-action](https://github.com/m50/setup-sfdx-action) ([1.1.1](https://github.com/m50/setup-sfdx-action/releases/tag/1.1.1), 4 months ago) - A simple github action to setup sfdx with any plugins for use in actions.
 - [m50/simple](https://github.com/m50/simple) ([3.0.0](https://github.com/m50/simple/releases/tag/3.0.0), 6 months ago) - The documentation verification tool to make sure that nothing is considered easy or simple.
 - [m50/Godot-CSharp-Node-Exports](https://github.com/m50/Godot-CSharp-Node-Exports) ([v1.0.1](https://github.com/m50/Godot-CSharp-Node-Exports/releases/tag/v1.0.1), 11 months ago) - A workaround for the limitation of the missing `class_name` from gdscript.
