@@ -13,7 +13,7 @@ Curious what I've been working on recently?
 - [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (4 weeks ago)
 - [m50/college-work](https://github.com/m50/college-work) - Moved all of my college homework into github (1 month ago)
 - [m50/fono](https://github.com/m50/fono) - Abandoned for now... A free-and-open-source wifi speaker system. (2 months ago)
-- [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (2 months ago)
+- [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (3 months ago)
 - [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component) - Create Tailwind CSS React components like styled components with class names on multiple lines and conditional class rendering (3 months ago)
 - [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.com - The website for my girlfriend. (3 months ago)
 - [m50/next-ts-netlify-starter](https://github.com/m50/next-ts-netlify-starter) - A skeleton project with NextJS, TypeScript, Tailwind, Jest, Netlify, Github Actions all setup. (4 months ago)
