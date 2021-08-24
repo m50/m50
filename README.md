@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.com - The website for my wife. (today)
 - [minormous/dali](https://github.com/minormous/dali) - Database Abstraction LIbrary for Minormous Framework (2 days ago)
-- [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.com - The website for my girlfriend. (1 week ago)
 - [m50/faunadb-php](https://github.com/m50/faunadb-php) - A PHP Library for interacting with FaunaDB and writing FQL (1 month ago)
 - [m50/phpunit-expect](https://github.com/m50/phpunit-expect) - An Expectation API for phpunit (1 month ago)
 - [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (1 month ago)
