@@ -8,13 +8,13 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (today)
-- [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.com - The website for my wife. (1 day ago)
+- [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (1 day ago)
+- [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.com - The website for my wife. (2 days ago)
 - [minormous/dali](https://github.com/minormous/dali) - Database Abstraction LIbrary for Minormous Framework (1 week ago)
 - [m50/faunadb-php](https://github.com/m50/faunadb-php) - A PHP Library for interacting with FaunaDB and writing FQL (1 month ago)
 - [m50/phpunit-expect](https://github.com/m50/phpunit-expect) - An Expectation API for phpunit (1 month ago)
 - [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (1 month ago)
-- [m50/college-work](https://github.com/m50/college-work) - Moved all of my college homework into github (1 month ago)
+- [m50/college-work](https://github.com/m50/college-work) - Moved all of my college homework into github (2 months ago)
 - [m50/fono](https://github.com/m50/fono) - Abandoned for now... A free-and-open-source wifi speaker system. (3 months ago)
 - [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component) - Create Tailwind CSS React components like styled components with class names on multiple lines and conditional class rendering (4 months ago)
 
