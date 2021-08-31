@@ -6,7 +6,7 @@ Curious what I've been working on recently?
 
 ---
 
-#### 👷 Check out what I'm currently working on
+#### 👷  Check out what I'm currently working on
 
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (2 days ago)
 - [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.com - The website for my wife. (3 days ago)
@@ -20,7 +20,7 @@ Curious what I've been working on recently?
 
 ---
 
-#### 🔭 Latest releases I've contributed to
+#### 🔭  Latest releases I've contributed to
 
 - [m50/phpunit-expect](https://github.com/m50/phpunit-expect) ([1.0.0](https://github.com/m50/phpunit-expect/releases/tag/1.0.0), 1 month ago) - An Expectation API for phpunit
 - [m50/setup-sfdx-action](https://github.com/m50/setup-sfdx-action) ([1.1.1](https://github.com/m50/setup-sfdx-action/releases/tag/1.1.1), 6 months ago) - A simple github action to setup sfdx with any plugins for use in actions.
@@ -28,7 +28,7 @@ Curious what I've been working on recently?
 
 ---
 
-#### 📊 My stats
+#### 📊  My stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m50&hide=javascript,css,html&layout=compact&langs_count=8)
 
@@ -36,7 +36,7 @@ Curious what I've been working on recently?
 
 ---
 
-#### 📫 How to reach me
+#### 📫  How to reach me
 
 - Twitter: [@MarisaCodes](https://twitter.com/MarisaCodes)
 - Email: [marisa@clardy.eu](mailto://marisa@clardy.eu)
