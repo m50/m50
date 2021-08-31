@@ -2,6 +2,8 @@
 
 My name is Marisa Clardy. I'm a sofware developer at Pagely who is a big fan of PHP and TypeScript. I advocate for strict type checking in all code.
 
+Check out more at [clardy.eu](https://clardy.eu)!
+
 Curious what I've been working on recently?
 
 ---
