@@ -10,8 +10,8 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
-- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) - An Expectation API for phpunit (1 day ago)
-- [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (3 days ago)
+- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) - An Expectation API for phpunit (2 days ago)
+- [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (4 days ago)
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (1 week ago)
 - [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.art/ - The website for my amazing artist wife. Check out her work! (1 week ago)
 - [minormous/dali](https://github.com/minormous/dali) - Database Abstraction LIbrary for Minormous Framework (2 weeks ago)
@@ -24,7 +24,7 @@ Curious what I've been working on recently?
 
 #### 🔭  Latest releases I've contributed to
 
-- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) ([1.0.0](https://github.com/m50/phpunit-expect/releases/tag/1.0.0), 1 month ago) - An Expectation API for phpunit
+- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) ([1.0.0](https://github.com/m50/phpunit-expect/releases/tag/1.0.0), 2 months ago) - An Expectation API for phpunit
 - [m50/setup-sfdx-action](https://github.com/m50/setup-sfdx-action) ([1.1.1](https://github.com/m50/setup-sfdx-action/releases/tag/1.1.1), 6 months ago) - A simple github action to setup sfdx with any plugins for use in actions.
 - [m50/simple](https://github.com/m50/simple) ([3.0.0](https://github.com/m50/simple/releases/tag/3.0.0), 7 months ago) - The documentation verification tool to make sure that nothing is considered easy or simple.
 
