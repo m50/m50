@@ -11,7 +11,7 @@ Curious what I've been working on recently?
 #### 👷  Check out what I'm currently working on
 
 - [m50/faunadb-php](https://github.com/m50/faunadb-php) - A PHP Library for interacting with FaunaDB and writing FQL (3 weeks ago)
-- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) - An Expectation API for phpunit (1 month ago)
+- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) - An Expectation API for phpunit (2 months ago)
 - [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (2 months ago)
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (2 months ago)
 - [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.art/ - The website for my amazing artist wife. Check out her work! (2 months ago)
