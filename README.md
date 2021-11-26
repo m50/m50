@@ -14,7 +14,7 @@ Curious what I've been working on recently?
 - [m50/phpunit-expect](https://github.com/m50/phpunit-expect) - An Expectation API for phpunit (2 months ago)
 - [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (2 months ago)
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (2 months ago)
-- [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.art/ - The website for my amazing artist wife. Check out her work! (2 months ago)
+- [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.art/ - The website for my amazing artist wife. Check out her work! (3 months ago)
 - [minormous/dali](https://github.com/minormous/dali) - Database Abstraction LIbrary for Minormous Framework (3 months ago)
 - [m50/college-work](https://github.com/m50/college-work) - Moved all of my college homework into github (4 months ago)
 - [m50/fono](https://github.com/m50/fono) - Abandoned for now... A free-and-open-source wifi speaker system. (6 months ago)
