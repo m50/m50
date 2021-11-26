@@ -10,6 +10,7 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
+- [m50/homeassistant-config](https://github.com/m50/homeassistant-config) - My Home Assistant Config (today)
 - [m50/faunadb-php](https://github.com/m50/faunadb-php) - A PHP Library for interacting with FaunaDB and writing FQL (1 month ago)
 - [m50/phpunit-expect](https://github.com/m50/phpunit-expect) - An Expectation API for phpunit (2 months ago)
 - [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (2 months ago)
@@ -18,7 +19,6 @@ Curious what I've been working on recently?
 - [minormous/dali](https://github.com/minormous/dali) - Database Abstraction LIbrary for Minormous Framework (3 months ago)
 - [m50/college-work](https://github.com/m50/college-work) - Moved all of my college homework into github (4 months ago)
 - [m50/fono](https://github.com/m50/fono) - Abandoned for now... A free-and-open-source wifi speaker system. (6 months ago)
-- [MathiasGilson/Tailwind-Styled-Component](https://github.com/MathiasGilson/Tailwind-Styled-Component) - Create Tailwind CSS React components like styled components with class names on multiple lines and conditional class rendering (7 months ago)
 
 ---
 
