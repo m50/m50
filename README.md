@@ -10,8 +10,8 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
-- [m50/homeassistant-config](https://github.com/m50/homeassistant-config) - My Home Assistant Config (3 days ago)
-- [m50/ha-html-card](https://github.com/m50/ha-html-card) - A custom card that allows you to insert any arbitrary HTML. (6 days ago)
+- [m50/homeassistant-config](https://github.com/m50/homeassistant-config) - My Home Assistant Config (4 days ago)
+- [m50/ha-html-card](https://github.com/m50/ha-html-card) - A custom card that allows you to insert any arbitrary HTML. (1 week ago)
 - [m50/faunadb-php](https://github.com/m50/faunadb-php) - A PHP Library for interacting with FaunaDB and writing FQL (2 months ago)
 - [m50/phpunit-expect](https://github.com/m50/phpunit-expect) - An Expectation API for phpunit (3 months ago)
 - [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (3 months ago)
