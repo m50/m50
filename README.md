@@ -18,7 +18,7 @@ Curious what I've been working on recently?
 - [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (3 months ago)
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (4 months ago)
 - [minormous/dali](https://github.com/minormous/dali) - Database Abstraction LIbrary for Minormous Framework (4 months ago)
-- [m50/college-work](https://github.com/m50/college-work) - Moved all of my college homework into github (5 months ago)
+- [m50/college-work](https://github.com/m50/college-work) - Moved all of my college homework into github (6 months ago)
 
 ---
 
