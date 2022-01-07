@@ -10,7 +10,7 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
-- [m50/homeassistant-config](https://github.com/m50/homeassistant-config) - My Home Assistant Config (2 weeks ago)
+- [m50/homeassistant-config](https://github.com/m50/homeassistant-config) - My Home Assistant Config (3 weeks ago)
 - [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.art/ - The website for my amazing artist wife. Check out her work! (3 weeks ago)
 - [m50/ha-html-card](https://github.com/m50/ha-html-card) - A custom card that allows you to insert any arbitrary HTML. (1 month ago)
 - [m50/faunadb-php](https://github.com/m50/faunadb-php) - A PHP Library for interacting with FaunaDB and writing FQL (2 months ago)
@@ -24,7 +24,7 @@ Curious what I've been working on recently?
 
 #### 🔭  Latest releases I've contributed to
 
-- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) ([1.0.0](https://github.com/m50/phpunit-expect/releases/tag/1.0.0), 5 months ago) - An Expectation API for phpunit
+- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) ([1.0.0](https://github.com/m50/phpunit-expect/releases/tag/1.0.0), 6 months ago) - An Expectation API for phpunit
 - [m50/setup-sfdx-action](https://github.com/m50/setup-sfdx-action) ([1.1.1](https://github.com/m50/setup-sfdx-action/releases/tag/1.1.1), 10 months ago) - A simple github action to setup sfdx with any plugins for use in actions.
 - [m50/simple](https://github.com/m50/simple) ([3.0.0](https://github.com/m50/simple/releases/tag/3.0.0), 11 months ago) - The documentation verification tool to make sure that nothing is considered easy or simple.
 
