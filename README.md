@@ -13,7 +13,7 @@ Curious what I've been working on recently?
 - [m50/homeassistant-config](https://github.com/m50/homeassistant-config) - My Home Assistant Config (3 weeks ago)
 - [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.art/ - The website for my amazing artist wife. Check out her work! (4 weeks ago)
 - [m50/ha-html-card](https://github.com/m50/ha-html-card) - A custom card that allows you to insert any arbitrary HTML. (1 month ago)
-- [m50/faunadb-php](https://github.com/m50/faunadb-php) - A PHP Library for interacting with FaunaDB and writing FQL (2 months ago)
+- [m50/faunadb-php](https://github.com/m50/faunadb-php) - A PHP Library for interacting with FaunaDB and writing FQL (3 months ago)
 - [m50/phpunit-expect](https://github.com/m50/phpunit-expect) - An Expectation API for phpunit (4 months ago)
 - [minormous/dali](https://github.com/minormous/dali) - Database Abstraction LIbrary for Minormous Framework (4 months ago)
 - [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (4 months ago)
