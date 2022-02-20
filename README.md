@@ -25,7 +25,6 @@ Curious what I've been working on recently?
 #### 🔭  Latest releases I've contributed to
 
 - [m50/phpunit-expect](https://github.com/m50/phpunit-expect) ([1.0.0](https://github.com/m50/phpunit-expect/releases/tag/1.0.0), 7 months ago) - An Expectation API for phpunit
-- [m50/setup-sfdx-action](https://github.com/m50/setup-sfdx-action) ([1.1.1](https://github.com/m50/setup-sfdx-action/releases/tag/1.1.1), 1 year ago) - A simple github action to setup sfdx with any plugins for use in actions.
 
 ---
 
