@@ -18,7 +18,6 @@ Curious what I've been working on recently?
 - [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (8 months ago)
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (8 months ago)
 - [m50/college-work](https://github.com/m50/college-work) - Moved all of my college homework into github (10 months ago)
-- [m50/fono](https://github.com/m50/fono) - Abandoned for now... A free-and-open-source wifi speaker system. (1 year ago)
 
 ---
 
