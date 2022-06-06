@@ -10,7 +10,7 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
-- [m50/homeassistant-config](https://github.com/m50/homeassistant-config) - My Home Assistant Config (5 days ago)
+- [m50/homeassistant-config](https://github.com/m50/homeassistant-config) - My Home Assistant Config (6 days ago)
 - [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.art/ - The website for my amazing artist wife. Check out her work! (1 month ago)
 - [m50/faunadb-php](https://github.com/m50/faunadb-php) - A PHP Library for interacting with FaunaDB and writing FQL (7 months ago)
 - [minormous/dali](https://github.com/minormous/dali) - Database Abstraction LIbrary for Minormous Framework (9 months ago)
@@ -23,7 +23,7 @@ Curious what I've been working on recently?
 
 #### 🔭  Latest releases I've contributed to
 
-- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) ([1.0.0](https://github.com/m50/phpunit-expect/releases/tag/1.0.0), 10 months ago) - An Expectation API for phpunit
+- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) ([1.0.0](https://github.com/m50/phpunit-expect/releases/tag/1.0.0), 11 months ago) - An Expectation API for phpunit
 
 ---
 
