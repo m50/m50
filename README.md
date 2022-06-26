@@ -17,7 +17,7 @@ Curious what I've been working on recently?
 - [m50/phpunit-expect](https://github.com/m50/phpunit-expect) - An Expectation API for phpunit (9 months ago)
 - [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (9 months ago)
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (10 months ago)
-- [m50/college-work](https://github.com/m50/college-work) - Moved all of my college homework into github (11 months ago)
+- [m50/college-work](https://github.com/m50/college-work) - Moved all of my college homework into github (1 year ago)
 
 ---
 
