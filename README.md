@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭  Latest releases I've contributed to
 
-- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) ([1.0.0](https://github.com/m50/phpunit-expect/releases/tag/1.0.0), 11 months ago) - An Expectation API for phpunit
+- [m50/phpunit-expect](https://github.com/m50/phpunit-expect) ([1.0.0](https://github.com/m50/phpunit-expect/releases/tag/1.0.0), 1 year ago) - An Expectation API for phpunit
 
 ---
 
