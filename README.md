@@ -16,7 +16,6 @@ Curious what I've been working on recently?
 - [minormous/dali](https://github.com/minormous/dali) - Database Abstraction LIbrary for Minormous Framework (1 year ago)
 - [m50/phpunit-expect](https://github.com/m50/phpunit-expect) - An Expectation API for phpunit (1 year ago)
 - [minormous/metabolize](https://github.com/minormous/metabolize) - The attribute handling for Minormous (1 year ago)
-- [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (1 year ago)
 
 ---
 
