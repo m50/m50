@@ -12,7 +12,6 @@ Curious what I've been working on recently?
 
 - [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.art/ - The website for my amazing artist wife. Check out her work! (2 weeks ago)
 - [m50/homeassistant-config](https://github.com/m50/homeassistant-config) - My Home Assistant Config (4 months ago)
-- [m50/faunadb-php](https://github.com/m50/faunadb-php) - A PHP Library for interacting with FaunaDB and writing FQL (1 year ago)
 
 ---
 
