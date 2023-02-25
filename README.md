@@ -10,9 +10,9 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
-- [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (4 days ago)
+- [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (5 days ago)
 - [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.art/ - The website for my ex-wife. (1 week ago)
-- [m50/homeassistant-config](https://github.com/m50/homeassistant-config) - My Home Assistant Config (8 months ago)
+- [m50/homeassistant-config](https://github.com/m50/homeassistant-config) - My Home Assistant Config (9 months ago)
 
 ---
 
