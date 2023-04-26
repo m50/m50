@@ -12,7 +12,7 @@ Curious what I've been working on recently?
 
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (2 months ago)
 - [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.art/ - The website for my ex-wife. (2 months ago)
-- [m50/homeassistant-config](https://github.com/m50/homeassistant-config) - My Home Assistant Config (10 months ago)
+- [m50/homeassistant-config](https://github.com/m50/homeassistant-config) - My Home Assistant Config (11 months ago)
 
 ---
 
