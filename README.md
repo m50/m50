@@ -10,6 +10,7 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
+- [m50/pokedex-tracker](https://github.com/m50/pokedex-tracker) - A self-hosted pokédex tracker, so you have full control over how you want to organize and track your Pokémon, shiny or otherwise. (today)
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (7 months ago)
 - [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.art/ - The website for my ex-wife. (7 months ago)
 
