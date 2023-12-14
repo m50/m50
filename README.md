@@ -11,7 +11,7 @@ Curious what I've been working on recently?
 #### 👷  Check out what I'm currently working on
 
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (9 months ago)
-- [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.art/ - The website for my ex-wife. (9 months ago)
+- [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.art/ - The website for my ex-wife. (10 months ago)
 
 ---
 
