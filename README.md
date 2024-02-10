@@ -10,7 +10,7 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
-- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent (today)
+- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent (1 day ago)
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (11 months ago)
 - [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.art/ - The website for my ex-wife. (11 months ago)
 
