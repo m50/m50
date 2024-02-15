@@ -10,15 +10,15 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
-- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent (3 days ago)
-- [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (11 months ago)
+- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent (4 days ago)
+- [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (1 year ago)
 - [m50/lydiamichelle.com](https://github.com/m50/lydiamichelle.com) - https://lydiamichelle.art/ - The website for my ex-wife. (1 year ago)
 
 ---
 
 #### 🔭  Latest releases I've contributed to
 
-- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) ([v1.0.0](https://github.com/m50/ha-fallback-conversation/releases/tag/v1.0.0), 3 days ago) - HomeAssistant Assist Fallback Conversation Agent
+- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) ([v1.0.0](https://github.com/m50/ha-fallback-conversation/releases/tag/v1.0.0), 4 days ago) - HomeAssistant Assist Fallback Conversation Agent
 
 ---
 
