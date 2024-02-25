@@ -11,7 +11,6 @@ Curious what I've been working on recently?
 #### 👷  Check out what I'm currently working on
 
 - [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent (2 weeks ago)
-- [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (1 year ago)
 
 ---
 
