@@ -10,13 +10,13 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
-- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent (today)
+- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent (1 day ago)
 
 ---
 
 #### 🔭  Latest releases I've contributed to
 
-- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) ([v1.0.1](https://github.com/m50/ha-fallback-conversation/releases/tag/v1.0.1), today) - HomeAssistant Assist Fallback Conversation Agent
+- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) ([v1.0.1](https://github.com/m50/ha-fallback-conversation/releases/tag/v1.0.1), 1 day ago) - HomeAssistant Assist Fallback Conversation Agent
 
 ---
 
