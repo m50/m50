@@ -10,9 +10,9 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
-- [m50/wygoming-satellite](https://github.com/m50/wygoming-satellite) - A wyoming-satellite-esque implementation in Go (5 days ago)
+- [m50/wygoming-satellite](https://github.com/m50/wygoming-satellite) - A wyoming-satellite-esque implementation in Go (6 days ago)
 - [m50/php-pusher-client](https://github.com/m50/php-pusher-client) - Async PHP, Amphp based Pusher Client (3 weeks ago)
-- [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (4 weeks ago)
+- [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (1 month ago)
 - [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent (1 month ago)
 
 ---
