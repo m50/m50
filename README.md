@@ -10,7 +10,7 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
-- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent (2 days ago)
+- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent (3 days ago)
 - [m50/wygoming-satellite](https://github.com/m50/wygoming-satellite) - A wyoming-satellite-esque implementation in Go (3 months ago)
 - [m50/php-pusher-client](https://github.com/m50/php-pusher-client) - Async PHP, Amphp based Pusher Client (3 months ago)
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (4 months ago)
@@ -19,7 +19,7 @@ Curious what I've been working on recently?
 
 #### 🔭  Latest releases I've contributed to
 
-- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) ([v1.0.5](https://github.com/m50/ha-fallback-conversation/releases/tag/v1.0.5), 2 days ago) - HomeAssistant Assist Fallback Conversation Agent
+- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) ([v1.0.5](https://github.com/m50/ha-fallback-conversation/releases/tag/v1.0.5), 3 days ago) - HomeAssistant Assist Fallback Conversation Agent
 - [m50/php-pusher-client](https://github.com/m50/php-pusher-client) ([v0.1.1](https://github.com/m50/php-pusher-client/releases/tag/v0.1.1), 3 months ago) - Async PHP, Amphp based Pusher Client
 
 ---
