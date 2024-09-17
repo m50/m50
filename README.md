@@ -19,7 +19,7 @@ Curious what I've been working on recently?
 
 #### 🔭  Latest releases I've contributed to
 
-- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) ([v2.0.0-beta](https://github.com/m50/ha-fallback-conversation/releases/tag/v2.0.0-beta), today) - HomeAssistant Assist Fallback Conversation Agent
+- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) ([v2.0.0-beta](https://github.com/m50/ha-fallback-conversation/releases/tag/v2.0.0-beta), 1 day ago) - HomeAssistant Assist Fallback Conversation Agent
 - [m50/php-pusher-client](https://github.com/m50/php-pusher-client) ([v0.1.1](https://github.com/m50/php-pusher-client/releases/tag/v0.1.1), 6 months ago) - Async PHP, Amphp based Pusher Client
 
 ---
