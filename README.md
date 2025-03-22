@@ -12,7 +12,7 @@ Curious what I've been working on recently?
 
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (2 months ago)
 - [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent (3 months ago)
-- [m50/wygoming-satellite](https://github.com/m50/wygoming-satellite) - A wyoming-satellite-esque implementation in Go (11 months ago)
+- [m50/wygoming-satellite](https://github.com/m50/wygoming-satellite) - A wyoming-satellite-esque implementation in Go (1 year ago)
 
 ---
 
