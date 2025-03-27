@@ -18,7 +18,7 @@ Curious what I've been working on recently?
 
 #### 🔭  Latest releases I've contributed to
 
-- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) ([v2.0.2](https://github.com/m50/ha-fallback-conversation/releases/tag/v2.0.2), 5 months ago) - HomeAssistant Assist Fallback Conversation Agent
+- [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) ([v2.0.2](https://github.com/m50/ha-fallback-conversation/releases/tag/v2.0.2), 6 months ago) - HomeAssistant Assist Fallback Conversation Agent
 
 ---
 
