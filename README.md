@@ -10,7 +10,7 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
-- [m50/shinidex](https://github.com/m50/shinidex) -  (2 days ago)
+- [m50/shinidex](https://github.com/m50/shinidex) -  (3 days ago)
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (5 months ago)
 - [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent (6 months ago)
 
@@ -18,7 +18,7 @@ Curious what I've been working on recently?
 
 #### 🔭  Latest releases I've contributed to
 
-- [m50/shinidex](https://github.com/m50/shinidex) ([v0.0.1](https://github.com/m50/shinidex/releases/tag/v0.0.1), 4 days ago) - 
+- [m50/shinidex](https://github.com/m50/shinidex) ([v0.0.1](https://github.com/m50/shinidex/releases/tag/v0.0.1), 5 days ago) - 
 - [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) ([v2.0.2](https://github.com/m50/ha-fallback-conversation/releases/tag/v2.0.2), 8 months ago) - HomeAssistant Assist Fallback Conversation Agent
 
 ---
