@@ -10,7 +10,7 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
-- [m50/shinidex](https://github.com/m50/shinidex) -  (3 days ago)
+- [m50/shinidex](https://github.com/m50/shinidex) -  (today)
 - [m50/pitraefikhole](https://github.com/m50/pitraefikhole) - Automatically create CNAMEs in pihole of your Hosts in Traefik to point at your Traefik reverse proxy (1 week ago)
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (5 months ago)
 - [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent (7 months ago)
