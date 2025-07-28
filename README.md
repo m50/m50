@@ -11,7 +11,7 @@ Curious what I've been working on recently?
 #### 👷  Check out what I'm currently working on
 
 - [m50/shinidex](https://github.com/m50/shinidex) -  (2 weeks ago)
-- [m50/pitraefikhole](https://github.com/m50/pitraefikhole) - Automatically create CNAMEs in pihole of your Hosts in Traefik to point at your Traefik reverse proxy (4 weeks ago)
+- [m50/pitraefikhole](https://github.com/m50/pitraefikhole) - Automatically create CNAMEs in pihole of your Hosts in Traefik to point at your Traefik reverse proxy (1 month ago)
 - [m50/clardy.eu](https://github.com/m50/clardy.eu) - https://clardy.eu - My website (6 months ago)
 - [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) - HomeAssistant Assist Fallback Conversation Agent (7 months ago)
 
@@ -19,7 +19,7 @@ Curious what I've been working on recently?
 
 #### 🔭  Latest releases I've contributed to
 
-- [m50/shinidex](https://github.com/m50/shinidex) ([v0.0.2](https://github.com/m50/shinidex/releases/tag/v0.0.2), 3 weeks ago) - 
+- [m50/shinidex](https://github.com/m50/shinidex) ([v0.0.2](https://github.com/m50/shinidex/releases/tag/v0.0.2), 4 weeks ago) - 
 - [m50/ha-fallback-conversation](https://github.com/m50/ha-fallback-conversation) ([v2.0.2](https://github.com/m50/ha-fallback-conversation/releases/tag/v2.0.2), 10 months ago) - HomeAssistant Assist Fallback Conversation Agent
 
 ---
