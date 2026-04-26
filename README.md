@@ -17,7 +17,7 @@ Curious what I've been working on recently?
 
 #### 🔭  Latest releases I've contributed to
 
-- [m50/shinidex](https://github.com/m50/shinidex) ([v0.0.2](https://github.com/m50/shinidex/releases/tag/v0.0.2), 9 months ago) - 
+- [m50/shinidex](https://github.com/m50/shinidex) ([v0.0.2](https://github.com/m50/shinidex/releases/tag/v0.0.2), 10 months ago) - 
 
 ---
 
