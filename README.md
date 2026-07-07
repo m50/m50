@@ -10,7 +10,7 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
-- [m50/shinidex](https://github.com/m50/shinidex) -  (11 months ago)
+- [m50/shinidex](https://github.com/m50/shinidex) -  (1 year ago)
 
 ---
 
