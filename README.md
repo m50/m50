@@ -10,7 +10,7 @@ Curious what I've been working on recently?
 
 #### 👷  Check out what I'm currently working on
 
-- [m50/spamgopher](https://github.com/m50/spamgopher) - A very simple implementation of spam filtering, just a for fun project. (1 week ago)
+- [m50/spamgopher](https://github.com/m50/spamgopher) - A very simple implementation of spam filtering, just a for fun project. (2 weeks ago)
 
 ---
 
